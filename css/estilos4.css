@@ -1,0 +1,34 @@
+#divContenedor {
+    display: flex;
+    justify-content: space-around;
+}
+
+#divPrimero {
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 30%;
+}
+
+#divSegundo {
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 70%;
+}
+
+#button {
+    width: 200px;
+    height: 70px;
+    background-color: white;
+    border: 4px solid rgb(231, 235, 40);
+}
+
+p {
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 54px;
+
+}

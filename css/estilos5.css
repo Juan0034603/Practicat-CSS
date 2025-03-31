@@ -1,0 +1,30 @@
+
+
+body {
+    background-image: url(../recursos/imagenes/mujer_entrenando.avif);
+    background-repeat: no-repeat;
+
+    background-size: 100% 100%;
+
+}
+
+
+#divPadre {
+    margin-top: 900px;
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+
+}
+
+.divHijos {
+    background-color: white;
+    width: 320px;
+    height: 220px;
+    text-align: center;
+}
+
+i {
+    margin-top: 100px;
+    font-size: 30px;
+}
